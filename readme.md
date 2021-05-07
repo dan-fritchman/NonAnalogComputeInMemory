@@ -5,6 +5,6 @@
 A study of and attempt to realize the benefits of compute-in-memory machine-learning acceleration, without all the nastiness of analog computation. 
 
 * [Project Proposal](./proposal.md)
-* [Slides](./slides/Digital Compute in Memory.pdf)
+* [Slides](./slides/Digital_Compute_in_Memory.pdf)
 * [Journal-Style Article](https://github.com/dan-fritchman/NonAnalogComputeInMemoryArticle)
 
