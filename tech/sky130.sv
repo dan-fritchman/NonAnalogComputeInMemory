@@ -24,7 +24,7 @@ module bitcell_latch (
     input logic d, e,
     output logic q 
 );
-    sky130_fd_sc_hd__dlrtp lat (.Q(q), .RESET_B(1'b1), .D(d), .GATE(e));
+    sky130_fd_sc_hd__dlrtp_1 lat (.Q(q), .RESET_B(1'b1), .D(d), .GATE(e));
     
 endmodule
 
